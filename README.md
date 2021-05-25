@@ -1,1 +1,1 @@
-# -GitPracticeHW1
+This is a homework repository. 
